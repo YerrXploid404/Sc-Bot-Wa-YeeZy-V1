@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://piyobot.000webhostapp.com/822161.png" alt="Piyobot" width="400" />
+<img src="(https://bewinchester.files.wordpress.com/2015/12/asli.jpg)" alt="YerrXploix404" width="400" />
 
 # YeeZyBotz
   
